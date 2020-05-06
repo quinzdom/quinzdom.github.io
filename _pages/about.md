@@ -3,26 +3,8 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+On Metagnosis we work towards understanding the world through long-form, structured conversation. Metagnosis is run by Henry and Yuta, students at Reed College.
 
-### Features
+Check out the podcast [here](https://pod.link/1478836561).
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+Feel free to email us at [MetagnosisPodcast@gmail.com](email:MetagnosisPodcast@gmail.com)
